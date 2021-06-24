@@ -2,6 +2,8 @@
 - nickname: kerdo
 - I'm 16 years old student
 - in Grade 11
+- intermediate in python but still learning, made a small games , small AI models
+- Language spoken: English , Arabic and alittle bit of german
 - 👀 I’m interested in programming and tech hardware/software, mobile phones-laptops,programming,python,AI, ML
 - 🌱 I’m currently learning ML using python
 - 💞️ I’m looking to collaborate on learning new thing making projects
