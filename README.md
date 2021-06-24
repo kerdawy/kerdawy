@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @kerdawy
+- 👋 Hi, I’m abdelrahman alkerdawy
+- nickname: kerdo
+- I'm 16 years old student
+- in Grade 11
 - 👀 I’m interested in programming and tech hardware/software, mobile phones-laptops,programming,python,AI, ML
 - 🌱 I’m currently learning ML using python
 - 💞️ I’m looking to collaborate on learning new thing making projects
